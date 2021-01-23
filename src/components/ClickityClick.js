@@ -1,3 +1,1 @@
-
-
 // Code ClickityClick Component Here
